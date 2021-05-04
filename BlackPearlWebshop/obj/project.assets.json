@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lione\\.nuget\\packages\\": {}
+    "C:\\Users\\ebrub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lione\\Documents\\DATAMATIKER\\FAG_Construction\\BlackPearlWebshop\\BlackPearlWebshop.csproj",
+      "projectUniqueName": "C:\\Users\\ebrub\\Source\\Repos\\ebru0152\\BlackPearlWebshop\\BlackPearlWebshop\\BlackPearlWebshop.csproj",
       "projectName": "BlackPearlWebshop",
-      "projectPath": "C:\\Users\\lione\\Documents\\DATAMATIKER\\FAG_Construction\\BlackPearlWebshop\\BlackPearlWebshop.csproj",
-      "packagesPath": "C:\\Users\\lione\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lione\\Documents\\DATAMATIKER\\FAG_Construction\\BlackPearlWebshop\\obj\\",
+      "projectPath": "C:\\Users\\ebrub\\Source\\Repos\\ebru0152\\BlackPearlWebshop\\BlackPearlWebshop\\BlackPearlWebshop.csproj",
+      "packagesPath": "C:\\Users\\ebrub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ebrub\\Source\\Repos\\ebru0152\\BlackPearlWebshop\\BlackPearlWebshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lione\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ebrub\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
